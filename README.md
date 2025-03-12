@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Angelo and I'm a web development student, from Las Palmas, Spain 🏖️</p>
+<p align="left">My name is Angelo and I'm a web development student, from Las Palmas, Spain 🏖️💃</p>
 
 ###
 
